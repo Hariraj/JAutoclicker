@@ -20,9 +20,10 @@ Contents
 1. Overview
 2. Features
 3. Installation
-4. Acknowledgements
-5. Feedback
-6. Disclaimer
+4. Screenshot
+5. Acknowledgements
+6. Feedback
+7. Disclaimer
 
 1. Overview
    --------
@@ -52,23 +53,21 @@ Contents
    FOR DEVELOPERS:
    -> If you want to add hotkey to this app. just uncomment the lines in Autoclicker.java and add Jintellitype jars and dll.
 
-5. Scrreenshot
-   -----------
-   ![screenshot](https://github.com/Hariraj/JAutoclicker/blob/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
-
 4. Acknowledgements
    ----------------
-   JIntellitype is distributed with a small number of libraries on which it depends.
+   JAutoclicker is distributed with a small number of libraries on which it depends.
    Those libraries are:
    
 	-> None currently
+
+5. Scrreenshot
+   -----------
+   ![screenshot](https://github.com/Hariraj/JAutoclicker/raw/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
       
-5. Feedback
+6. Feedback
    --------
-   Your feedback on JAutoclicker (hopefully constructive) is always welcome.  Please
-   visit http://www.melloware.com/ for links to browse and join mailing
-   lists, file bugs and submit feature requests.  
+   Your feedback on JAutoclicker (hopefully constructive) is always welcome.
    
-6. Disclaimer
+7. Disclaimer
    ----------
    Developer of this application is not responsible for any wrong or illegal use of this software.
