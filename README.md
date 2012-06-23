@@ -1,4 +1,5 @@
 JAutoClicker
+
 http://hariraj.github.com/JAutoclicker/
 
 Copyright 2012-2013 Hariraj Sundaravadivelu
@@ -15,15 +16,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Contents
---------
-1. Overview
-2. Features
-3. Installation
-4. Screenshot
-5. Acknowledgements
-6. Feedback
-7. Disclaimer
 
 1. Overview
    --------
@@ -34,14 +26,23 @@ Contents
 2. Features
    --------
    -> Detects the coordinates of the screen.
+   
    -> Automates the mouse button actions(right click,left click,middle click,double right click,double left click).
+   
    -> Configure atmost 3 screen coordinates to auto click.
+  
    -> Option to set the delay between the clicks.
+ 
    -> Option to configure the number of times to click in a particular screen coordinate.
+ 
    -> Option to Pause and resume the clicks at any point of time.
+
    -> Option to Hide the application in system tray and to issue commands from system tray icon.
+ 
    -> Saves the last used settings while starting up the application even after the exit of the application.
+ 
    -> A rich user Interface.
+  
    -> option to integrate external library like Jintellitype to confiigure hot keys.
 
 3. Installation
