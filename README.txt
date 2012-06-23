@@ -52,6 +52,9 @@ Contents
    FOR DEVELOPERS:
    -> If you want to add hotkey to this app. just uncomment the lines in Autoclicker.java and add Jintellitype jars and dll.
 
+5. Scrreenshot
+   -----------
+   ![screenshot](https://github.com/Hariraj/JAutoclicker/blob/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
 
 4. Acknowledgements
    ----------------
