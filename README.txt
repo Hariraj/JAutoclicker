@@ -1,5 +1,5 @@
 JAutoClicker
-http://www.hrirajsundaravadivelu.com/
+http://hariraj.github.com/JAutoclicker/
 
 Copyright 2012-2013 Hariraj Sundaravadivelu
 
@@ -62,7 +62,7 @@ Contents
 
 5. Scrreenshot
    -----------
-   ![screenshot](https://github.com/Hariraj/JAutoclicker/raw/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
+   ![JAutoclicker](https://github.com/Hariraj/JAutoclicker/raw/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
       
 6. Feedback
    --------
