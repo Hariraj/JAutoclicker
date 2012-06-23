@@ -60,7 +60,7 @@ Contents
    
 	-> None currently
 
-5. Scrreenshot
+5. Screenshot
    -----------
    ![JAutoclicker](https://github.com/Hariraj/JAutoclicker/raw/origin/JAutoclicker/ScreenShot/Autoclicker.jpg)
       
